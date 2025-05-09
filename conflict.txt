@@ -6,3 +6,5 @@ datat from local
 
 not present
 edited data.
+
+global
