@@ -1,3 +1,7 @@
 Confilicting component.  
 
 main changes
+
+datat from local 
+
+not present
