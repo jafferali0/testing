@@ -1,3 +1,5 @@
 Confilicting component.  
 
 main changes
+
+edited data.
