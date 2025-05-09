@@ -1,1 +1,3 @@
-Confilicting component.
+Confilicting component.  
+
+main changes
